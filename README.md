@@ -1,6 +1,4 @@
-# crud_Graphic_billing_system_Python
-1- #.py .exe is in progress
-2- Some functions in  application are in progress
-3- I am using Laragon as mysql database administrator. 
-3- I created a database named as pybd; table named productos with this: id, descripcion, precio, monto
-5-link access to Laragon : https://laragon.org/download/index.html
+    "The Python executable is still pending for this program."
+    "Some functions in the application are still under development."
+    "I am using Laragon as a MySQL database management system, but any other system can be used as well."
+    "The program is still in development and has not been finalized yet."
